@@ -15,31 +15,24 @@ My Godly Tech Stack:
             <td>
             <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
             </td>
-            
             <td>
             <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"/>
             </td>
-            
             <td>
             <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
             </td>
-            
              <td>
             <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
             </td>
-            
              <td>
             <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png"/>
             </td>
-            
               <td>
             <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png"/>
             </td>
-            
              <td>
             <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
             </td>
-            
              <td>
             <img height="50" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png"/>
             </td>
