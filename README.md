@@ -14,6 +14,7 @@ My Godly Tech Stack:
 - FLUTTER
 - DART
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=admiral-gunter)](https://github.com/anuraghazra/github-readme-stats)
 
 that's all for now i'll update my profile soon
 
