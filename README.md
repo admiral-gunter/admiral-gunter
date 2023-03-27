@@ -7,7 +7,7 @@ My Godly Tech Stack:
     <tbody>
         <tr>
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg](https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+            <img height="50" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
             </td>
             <td>
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
