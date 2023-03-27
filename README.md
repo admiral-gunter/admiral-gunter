@@ -1,8 +1,23 @@
 ### Willkomen 
 
-Tech Stack:
 
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/oZU8_qYQ-oEAAAAC/iwakura-lain.gif">
+
+My Godly Tech Stack:
+- MySQl
+- PostgreSQL
+- JS
+- TS
+- REACTJS
+- NODEJS
+- PHP
+- LARAVEL
+- FLUTTER
+- DART
+
+
+that's all for now i'll update my profile soon
+
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/oZU8_qYQ-oEAAAAC/iwakura-lain.gif">
 
 <!--
 **admiral-gunter/admiral-gunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
