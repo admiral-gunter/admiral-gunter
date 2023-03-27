@@ -14,7 +14,6 @@ My Godly Tech Stack:
 - FLUTTER
 - DART
 
-[![WAWA](https://github-readme-stats.vercel.app/api?username=admiral-gunter)](https://github.com/anuraghazra/github-readme-stats)
 
 that's all for now i'll update my profile soon
 
