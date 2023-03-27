@@ -1,4 +1,8 @@
-### Hi there 👋
+### Willkomen 
+
+Tech Stack:
+
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/oZU8_qYQ-oEAAAAC/iwakura-lain.gif">
 
 <!--
 **admiral-gunter/admiral-gunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
