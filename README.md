@@ -3,7 +3,7 @@
 
 
 My Godly Tech Stack:
-- MySQl
+- MySQL
 - PostgreSQL
 - JS
 - TS
