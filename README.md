@@ -3,7 +3,22 @@
 
 
 My Godly Tech Stack:
-- MySQL
+<table>
+    <tbody>
+        <tr>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg](https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+            </td>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </td>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!-- - MySQL
 - PostgreSQL
 - JS
 - TS
@@ -13,7 +28,7 @@ My Godly Tech Stack:
 - LARAVEL
 - FLUTTER
 - DART
-
+ -->
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=admiral-gunter&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 that's all for now i'll update my profile soon
